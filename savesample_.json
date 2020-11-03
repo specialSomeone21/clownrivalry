@@ -1,0 +1,26 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "\"option_controls_up\"": 38,
+        "\"option_controls_left\"": 37,
+        "\"option_controls_right\"": 39,
+        "\"option_controls_down\"": 40,
+        "\"option_controls_interact\"": 90,
+        "\"option_controls_interactGamepad\"": 0,
+        "\"option_game_touch\"": 0,
+        "\"option_game_gamepad\"": 0,
+        "\"option_game_vibration\"": 0,
+        "\"option_game_volume\"": 3,
+        "\"option_accessibility_highlightcolorRed\"": "255\n \n\n ",
+        "\"option_accessibility_highlightcolorGreen\"": 102,
+        "\"option_accessibility_highlightcolorBlue\"": 106,
+        "\"option_accessibility_highlightcolorAlpha\"": 1,
+        "\"option_accessibility_closedcaptions\"": 0,
+        "\"option_graphics_visualeffects\"": 1,
+        "\"option_graphics_cameraeffects\"": 1,
+        "\"options_graphics_brightness\"": 100,
+        "\"option_graphics_fullscreen\"": 1,
+        "\"option_graphics_camerascale\"": 1,
+        "\"option_graphics_cameretimescale\"": 1
+    }
+}
